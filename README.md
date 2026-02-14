@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocietyHub – College Society Management System
 
 Production-ready frontend for a College Society Management System built with **React 19**, **Vite 7**, **TypeScript**, **Tailwind CSS v3.4**, **Framer Motion**, **Recharts**, and **React Router v7**.
@@ -41,3 +42,6 @@ npm run preview
 - Recharts (line + doughnut)
 - React Router 7.4+ (lazy routes)
 - clsx (class names)
+=======
+# CSSE_project1
+>>>>>>> 3bc209228905bcf815f7b5e10ebe318a1c018475
